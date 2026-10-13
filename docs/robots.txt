@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepaash.github.io/deskvnc-resources-s3-32937833543b/sitemap.xml

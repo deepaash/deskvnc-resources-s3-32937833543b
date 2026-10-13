@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+<title id="title">Boundary support with consent</title><desc id="desc">An invitation connects a supporter to a recipient who approves and can end the session.</desc>
+<style>text{font:17px sans-serif;fill:#e7f4fa}.consent{animation:consent 3s infinite}@keyframes consent{50%{fill:#2d8f82}}@media(prefers-reduced-motion:reduce){.consent{animation:none}}</style>
+<rect width="640" height="240" rx="24" fill="#102e40"/><rect x="28" y="56" width="162" height="106" rx="14" fill="#1e5065" stroke="#a7baff"/><rect x="450" y="56" width="162" height="106" rx="14" fill="#1e5065" stroke="#a7baff"/>
+<path d="M190 108H258M382 108H450" stroke="#62e6ba" stroke-width="3"/><path d="M314 48L367 70V121Q367 155 314 178Q261 155 261 121V70Z" class="consent" fill="#226f76" stroke="#62e6ba" stroke-width="3"/><path d="M288 106L306 124L342 87" stroke="#e7f4fa" stroke-width="5" fill="none"/>
+<g text-anchor="middle"><text x="109" y="92">Recipient</text><text x="109" y="128">Invite</text><text x="531" y="92">Supporter</text><text x="531" y="128">Connect</text><text x="320" y="211">Approval first. Recipient keeps control.</text></g>
+</svg>

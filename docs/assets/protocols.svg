@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+<title id="title">A protocol for every workflow</title><desc id="desc">VNC pixels, RDP desktops and SSH terminal text sit side by side.</desc>
+<style>text{font:18px sans-serif;fill:#e7f4fa}.cursor{animation:blink 2s steps(2) infinite}@keyframes blink{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect width="640" height="220" rx="24" fill="#102e40"/>
+<g fill="#1e5065" stroke="#a7baff" stroke-width="2"><rect x="28" y="28" width="174" height="120" rx="12"/><rect x="233" y="28" width="174" height="120" rx="12"/><rect x="438" y="28" width="174" height="120" rx="12"/></g>
+<g fill="#62e6ba"><rect x="47" y="48" width="63" height="35" rx="4"/><rect x="118" y="48" width="64" height="79" rx="4"/><rect x="47" y="91" width="63" height="36" rx="4"/></g>
+<path d="M253 59H386V127H253Z M253 79H386M296 79V127" stroke="#62e6ba" stroke-width="3" fill="none"/><path d="M464 65L480 81L464 97M493 101H540" stroke="#62e6ba" stroke-width="3" fill="none"/><rect class="cursor" x="548" y="86" width="8" height="18" fill="#e7f4fa"/>
+<g text-anchor="middle"><text x="115" y="184">VNC pixels</text><text x="320" y="184">RDP desktop</text><text x="525" y="184">SSH terminal</text></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+<title id="title">Open, acquire, observe, act</title><desc id="desc">Four steps lead into a fresh observation after every action.</desc>
+<style>text{font:17px sans-serif;fill:#e7f4fa}.pulse{animation:pulse 4s infinite}@keyframes pulse{50%{stroke:#fff;stroke-width:4}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect width="640" height="220" rx="24" fill="#102e40"/>
+<path d="M104 85H535M535 120V172H104V120" stroke="#62e6ba" stroke-width="3" fill="none"/><path d="M525 75L537 85L525 95M114 162L102 172L114 182" fill="none" stroke="#62e6ba" stroke-width="3"/>
+<g fill="#1e5065" stroke="#a7baff" stroke-width="2"><rect class="pulse" x="24" y="48" width="130" height="72" rx="12"/><rect x="178" y="48" width="130" height="72" rx="12"/><rect x="332" y="48" width="130" height="72" rx="12"/><rect x="486" y="48" width="130" height="72" rx="12"/></g>
+<g text-anchor="middle"><text x="89" y="90">1 Open</text><text x="243" y="90">2 Acquire</text><text x="397" y="90">3 Observe</text><text x="551" y="90">4 Act</text><text x="320" y="201">Wait, then observe again</text></g>
+</svg>

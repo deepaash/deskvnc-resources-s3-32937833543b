@@ -1,0 +1,10 @@
+# DeskVNC resources
+
+> Published by deepaash. Upstream application: https://github.com/psmux/DeskVNC
+
+## Guides and stories
+- [What changes when every machine shares one window?](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/one-window.md): A practical tour of the VNC, RDP and SSH workspace.
+- [The four calls that turn a connection into an agent workspace](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/observe-act.md): Open, acquire, observe and act through the dvv control plane.
+- [An invitation, an approval, a shared screen](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/boundary.md): How Boundary makes attended support a consent-first workflow.
+- [Why the person keeps the wheel during automation](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/human-takeover.md): Control leases make human supervision part of the interface.
+- [Desktop pixels or terminal text? Pick the right observation](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/protocol-choice.md): A positive comparison of workflows built around VNC, RDP and SSH.

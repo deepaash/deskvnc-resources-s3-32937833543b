@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+<title id="title">One workspace, many machines</title><desc id="desc">VNC, RDP and SSH connections flow into a shared DeskVNC window.</desc>
+<style>text{font:18px sans-serif;fill:#e7f4fa}.flow{stroke-dasharray:8 8;animation:flow 2s linear infinite}@keyframes flow{to{stroke-dashoffset:-32}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+<rect width="640" height="240" rx="24" fill="#102e40"/>
+<g fill="#1e5065" stroke="#62e6ba" stroke-width="2"><rect x="32" y="26" width="112" height="48" rx="12"/><rect x="32" y="96" width="112" height="48" rx="12"/><rect x="32" y="166" width="112" height="48" rx="12"/></g>
+<g text-anchor="middle"><text x="88" y="57">VNC</text><text x="88" y="127">RDP</text><text x="88" y="197">SSH</text></g>
+<g class="flow" fill="none" stroke="#62e6ba" stroke-width="3"><path d="M144 50H210L280 102"/><path d="M144 120H280"/><path d="M144 190H210L280 138"/></g>
+<rect x="280" y="35" width="325" height="170" rx="16" fill="#153d50" stroke="#a7baff" stroke-width="2"/><path d="M280 78H605M450 78V205" stroke="#a7baff"/>
+<text x="302" y="63">DeskVNC workspace</text><rect x="300" y="100" width="132" height="81" rx="8" fill="#226f76"/><rect x="470" y="100" width="114" height="81" rx="8" fill="#354b77"/><path d="M485 122L497 134L485 146M508 149H542" stroke="#62e6ba" stroke-width="3" fill="none"/>
+</svg>
