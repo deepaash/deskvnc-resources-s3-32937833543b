@@ -2,7 +2,7 @@
 
 Published by deepaash.
 
-Open, acquire, observe and carry the generation before every input.
+Open, acquire, observe and carry geometry generation with coordinate input.
 
 Open the session first. Switch the control plane on in the AI Agents panel and register dvv once, using dvv doctor to print the line for your client. Discover saved machines with dvv_hosts, then dvv_open a host with perceive enabled to receive its limbId, size and state, and dvv_wait until connected. Keep one long lived peer for the whole task, because a limb id belongs to the connection that opened it.
 

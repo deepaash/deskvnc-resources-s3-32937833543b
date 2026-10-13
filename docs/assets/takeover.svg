@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
 <title id="title">Human takeover</title><desc id="desc">The control lease passes from an agent to a person while held input is released.</desc>
-<style>text{font:17px sans-serif;fill:#e7f4fa}.lease{animation:lease 5s infinite}@keyframes lease{50%{transform:translateX(215px)}}@media(prefers-reduced-motion:reduce){.lease{animation:none}}</style>
+<style>text{font:17px sans-serif;fill:#e7f4fa}.lease{animation:lease 5s infinite}@keyframes lease{50%{transform:translateX(215px)}}@media(prefers-reduced-motion:reduce){.lease{animation:none;transform:translateX(215px)}}</style>
 <rect width="640" height="240" rx="24" fill="#102e40"/><path d="M170 86H470" stroke="#a7baff" stroke-width="3"/>
 <rect x="48" y="40" width="165" height="94" rx="16" fill="#1e5065"/><rect x="427" y="40" width="165" height="94" rx="16" fill="#226f76"/><circle class="lease" cx="225" cy="86" r="13" fill="#62e6ba"/>
 <g text-anchor="middle"><text x="130" y="91">Agent</text><text x="510" y="91">Person</text><text x="320" y="166">Control lease</text><text x="320" y="199">Takeover releases held keys and buttons</text></g>
