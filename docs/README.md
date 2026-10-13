@@ -13,4 +13,3 @@ Maintained by deepaash for promotion.
 - [Why the person keeps the wheel during automation](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/human-takeover.md): Control leases make human supervision part of the interface.
 - [Desktop pixels or terminal text? Pick the right observation](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/protocol-choice.md): A positive comparison of workflows built around VNC, RDP and SSH.
 - [An observation checklist for desktop agents: workflow checklist](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/agents-workflow-checklist.md): Open, acquire, observe and carry geometry generation with coordinate input.
-- [An observation checklist for desktop agents: question answer](https://deepaash.github.io/deskvnc-resources-s3-32937833543b/posts/agents-question-answer.md): Open, acquire, observe and carry geometry generation with coordinate input.
